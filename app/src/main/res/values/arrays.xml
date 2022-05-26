@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="thunderstorm_id_list">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+    </array>
+
+    <array name="drizzle_id_list">
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+    </array>
+
+    <array name="rain_id_list">
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+    </array>
+
+    <array name="freezing_rain_id_list">
+        <item>511</item>
+    </array>
+
+    <array name="snow_id_list">
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+    </array>
+
+    <array name="sleet_id_list">
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+    </array>
+
+    <array name="clear_id_list">
+        <item>800</item>
+    </array>
+
+    <array name="clouds_id_list">
+        <item>801</item>
+        <item>802</item>
+    </array>
+    
+    <array name="heavy_clouds_id_list">
+        <item>803</item>
+        <item>804</item>
+    </array>
+
+    <array name="fog_id_list">
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>741</item>
+    </array>
+
+    <array name="sand_id_list">
+        <item>731</item>
+        <item>751</item>
+    </array>
+
+    <array name="dust_id_list">
+        <item>761</item>
+    </array>
+    
+    <array name="volcanic_ash_id_list">
+        <item>762</item>
+    </array>
+    
+    <array name="squalls_id_list">
+        <item>771</item>
+    </array>
+
+    <array name="tornado_id_list">
+        <item>781</item>
+    </array>
+
+</resources>
